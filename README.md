@@ -1,5 +1,10 @@
 | [🇺🇦 Українська версія](#ukrainian-version) | [🇺🇸 English Version](#english-version) 
 
+---
+<a name="ukrainian-version"></a>
+🇺🇦 Українська версія
+
+---
 
 ## Привіт, я Анна! 👋
 
@@ -36,7 +41,9 @@
 - **AI Tools:** Досвід використання ChatGPT, Gemini та Copilot для оптимізації робочих процесів.
 - **Languages:** Українська (Native), Англійська (Intermediate).
 
-
+---
+<a name="english-version"></a>
+🇺🇸 English Version
 
 ---
 
